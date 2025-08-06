@@ -1,8 +1,8 @@
 ---
-date: '3'
+date: '4'
 title: 'Object Detection'
 cover: './demo.png'
-github: 'https://github.com/hadush-negasi/'
+github: 'https://github.com/hadush-negasi/object-detection'
 external: ' '
 tech:
   - Python

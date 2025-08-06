@@ -1,9 +1,9 @@
 ---
-date: '2'
+date: '3'
 title: 'Laptop Store'
 cover: './demo.png'
 github: 'https://github.com/hadush-negasi/laptop-store'
-external: ' '
+external: 'https://laptopgebeya.netlify.app/'
 tech:
   - React
   - Redux

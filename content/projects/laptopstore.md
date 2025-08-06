@@ -2,7 +2,7 @@
 date: '2024-01-10'
 title: 'Laptop Store'
 github: 'https://github.com/hadush-negasi/laptop-store'
-external: ''
+external: 'https://laptopgebeya.netlify.app/'
 tech:
   - React
   - Redux
