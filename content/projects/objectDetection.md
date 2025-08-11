@@ -2,7 +2,7 @@
 date: '2023-05-15'
 title: 'Object Detection'
 github: 'https://github.com/hadush-negasi/object-detection'
-external: ' '
+external: 'https://object-detection-0.streamlit.app/'
 tech:
   - Python
   - OpenCV

@@ -3,7 +3,7 @@ date: '4'
 title: 'Object Detection'
 cover: './demo.png'
 github: 'https://github.com/hadush-negasi/object-detection'
-external: ' '
+external: 'https://object-detection-0.streamlit.app/'
 tech:
   - Python
   - OpenCV
