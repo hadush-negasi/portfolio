@@ -2,7 +2,7 @@
 date: '2024-06-02'
 title: 'Recipe Recommendation Using Collaborative Filtering method'
 github: 'https://github.com/hadush-negasi/recipe-recommender'
-external: 'https://recipe-recommend.streamlit.app/'
+external: 'https://hadush7501-recipe-recommender.hf.space/'
 tech:
   - Python
   - Streamlit
